@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-This package provides Rmarkdown templates for use at Monash University, Department of Econometrics & Business Statistics.
+This package provides Rmarkdown templates for classes. It is based off the "MonashEBSTemplates" package for use at Monash University, Department of Econometrics & Business Statistics.
 
 It contains
 
@@ -17,11 +17,6 @@ It contains
 
 The `slides()` function is actually a wrapper to use the `monash` template in the [`binb`](https://github.com/eddelbuettel/binb) package.
 
-There are also Monash thesis templates available:
-
- * PhD thesis template: https://github.com/robjhyndman/MonashThesis
- * Honours thesis template: https://github.com/robjhyndman/MonashHonoursThesis
- 
 
 ## Installation
 
@@ -30,7 +25,7 @@ The package can be installed by:
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("robjhyndman/MonashEBSTemplates")
+remotes::install_github("ebmwhite/ClassTemplates")
 ```
 
 ## Usage from RStudio

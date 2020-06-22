@@ -1,5 +1,5 @@
 
-# R Markdown templates for Monash University
+# R Markdown templates for Classes
 
 <!-- badges: start -->
 <!-- badges: end -->
